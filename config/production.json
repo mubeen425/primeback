@@ -1,10 +1,10 @@
 {
   "en": "production",
   "DBCONFIG": {
-    "USERNAME": "primecrypto_api",
-    "DATABASE": "primecrypto_api",
-    "PASSWORD": "primecrypto_api",
-    "HOST": "vm990.tmdcloud.eu"
+    "USERNAME": "b5d4b3d4a1145a",
+    "DATABASE": "heroku_f3ba253c2ba6b81",
+    "PASSWORD": "d0929a1f",
+    "HOST": "us-cdbr-east-06.cleardb.net"
   },
   "cloudinary": {
     "cloud_name": "mansoorcloud",
