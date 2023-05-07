@@ -1,0 +1,22 @@
+{
+  "en": "production",
+  "DBCONFIG": {
+    "USERNAME": "primecrypto_api",
+    "DATABASE": "primecrypto_api",
+    "PASSWORD": "primecrypto_api",
+    "HOST": "vm990.tmdcloud.eu"
+  },
+  "cloudinary": {
+    "cloud_name": "mansoorcloud",
+    "api_key": "475838235114589",
+    "api_secret": "VqT5klF59dCMOLr58Xsnk2syymk"
+  },
+  "mailconf": {
+    "user": "noreply@primecryptoexchange.com",
+    "pass": "vQnsbptNc8H_"
+  },
+  "jwtPrivateKey": "privateKey",
+  "MarketApi": "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?CMC_PRO_API_KEY=f6b5dcfa-ee0c-40b1-8559-fa5fb86f7ffb&start=1&limit=350&convert=USD",
+  "baseurl": "https://api.primecryptoexchange.com",
+  "SENDGRID_API_KEY": "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"
+}
